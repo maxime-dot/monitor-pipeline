@@ -1,3 +1,5 @@
+gitlab:
+  url: https://gitlab.smartone.ai
    
 wildcards:
   - owner:
