@@ -1,0 +1,18 @@
+   
+wildcards:
+  - owner:
+      kind: group
+      name: production/production
+    include_subgroups: true
+  - owner:
+      kind: group
+      name: production/production/picking
+    include_subgroups: true
+  - owner:
+      kind: group
+      name: sog-interne-data
+    include_subgroups: true  
+  - owner:
+      kind: group
+      name: devops/production
+    include_subgroups: true
